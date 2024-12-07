@@ -1,0 +1,64 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="greenlet" />
+            <item index="1" class="java.lang.String" itemvalue="SQLAlchemy" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="list" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="espnow" />
+          <option value="main.machine" />
+          <option value="interface.MyWidget.button_list_files" />
+          <option value="interface.MyWidget.button_donwload" />
+          <option value="interface.MyWidget.button_delete" />
+          <option value="interface.MyWidget.button_upload" />
+          <option value="interface.MyWidget.result" />
+          <option value="interface.MyWidget.com_n" />
+          <option value="interface.MyWidget.remote_f" />
+          <option value="interface.MyWidget.local_f" />
+          <option value="interface.MyWidget.adres" />
+          <option value="interface.MyWidget.future_name" />
+          <option value="interface.MyWidget.contacts" />
+          <option value="interface.MyWidget.button_gener" />
+          <option value="interface.MyWidget.bd_button" />
+          <option value="interface_1.GenerateForm.button_gener" />
+          <option value="interface_1.GenerateForm.result" />
+          <option value="interface_1.GenerateForm.adres" />
+          <option value="interface_1.GenerateForm.future_name" />
+          <option value="interface_1.GenerateForm.contacts" />
+          <option value="interface_1.GenerateForm.check1" />
+          <option value="interface_2.DatabaseForm.gate_path_buttin" />
+          <option value="interface_2.DatabaseForm.gate_button" />
+          <option value="interface_2.DatabaseForm.line_1" />
+          <option value="interface_2.DatabaseForm.result" />
+          <option value="interface.MyWidget.button_f" />
+          <option value="menu.AnotherWindow.listWidget" />
+          <option value="menu.AnotherWindow.stackedWidget" />
+          <option value="test.MainWindow.button" />
+          <option value="test.MainWindow.surname" />
+          <option value="test.MainWindow.name" />
+          <option value="test.MainWindow.num_var" />
+          <option value="sign_in.MainWindow.button" />
+          <option value="sign_in.MainWindow.surname" />
+          <option value="sign_in.MainWindow.name" />
+          <option value="sign_in.MainWindow.num_var" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
